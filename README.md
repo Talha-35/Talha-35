@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there. I'm Talha 👋
+
+I'm a Junior who wants to be a Full-Stack programmer
 
 <!--
 **Talha-35/Talha-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
