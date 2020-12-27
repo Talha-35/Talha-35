@@ -13,6 +13,8 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=Talha-35&show_icons=true&count_private=true&hide=contribs,issues" alt="Talha Ülkümen's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
+![](https://github-readme-stats.vercel.app/api?username=tuncayerman&show_icons=true&theme=radical)
+(https://github.com/efemevlut/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
 ### Connect with me:
 <p align="left">
