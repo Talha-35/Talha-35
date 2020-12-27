@@ -12,17 +12,16 @@
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Talha-35&show_icons=true&theme=radical" />
   <img src="./all.gif" alt="react-native" width="20%" height="20%" align="right">
-
-  
+  <img src="./react.gif" alt="react-native" width="20%" height="20%" align="right">  
 </p>
 
 <p float="center">
 
-  <img src="./react.gif" alt="react-native" width="20%" height="20%" align="right">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
   
 </p>
 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
+
 
 <hr>
 
