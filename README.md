@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>
 
-<p align="center">
+<p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Talha-35&show_icons=true&theme=radical" />
   <img src="./all.gif" alt="react-native" width="20%" height="20%" align="right">
   <img src="./react.gif" alt="react-native" width="20%" height="20%" align="right">  
 </p>
 
-<p float="center">
+<p align="center">
 
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
   
