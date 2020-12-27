@@ -6,6 +6,7 @@
 - 💪 I’m currently working on frontend and mobile app development (JavaScript | React | React Native | HTML | CSS)
 - ✍ Currently, I am trying to improve myself backend development (Node.js | Express | MongoDB | Django)
 - ❓   Ask me about anything that you want to learn
+- 💥 I like walking🏃‍ and traveling✈. I'm also learning to play the guitar.🎻
 <br>
 <!--[![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35)-->
 
