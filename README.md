@@ -11,7 +11,6 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Talha-35&show_icons=true&theme=radical" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&show_icons=true&theme=react)]
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
