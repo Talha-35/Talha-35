@@ -1,5 +1,5 @@
 ### Hi there.🖐🌍 Talha here 
-
+<br>
 - 🚀 I'm a full stack developer, interested in everything but my speciality is mobile applications. 
 - 💪 I’m currently working on frontend and mobile app development (JavaScript | React | React Native | HTML | CSS)
 - ✍ Currently, I am trying to improve myself backend development (Node.js | Express | MongoDB | Django)
