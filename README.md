@@ -8,11 +8,12 @@
 - ❓   Ask me about anything that you want to learn
 - 💥 I like walking🏃‍ and traveling✈. I'm also learning to play the guitar.🎻
 <br>
+
 [![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35)
 
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>
 
 <hr>
 
