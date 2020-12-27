@@ -1,4 +1,5 @@
 ### Hi there. 🖐🌍
+<hr>
 - ⭐ Talha here ⭐
 - 🚀 I'm a full stack developer, interested in everything but my speciality is mobile applications. 
 - 💪 I’m currently working on frontend and mobile app development (JavaScript | React | React Native | HTML | CSS)
@@ -8,7 +9,7 @@
 <!--[![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>
-
+<hr>
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Talha-35&show_icons=true&theme=radical" />
   <img src="./all.gif" alt="react-native" width="20%" height="20%" align="right">
