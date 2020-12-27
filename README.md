@@ -15,14 +15,8 @@
   <img src="./react.gif" alt="react-native" width="20%" height="20%" align="right">  
 </p>
 
-<p align="center">
-
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
   
-</p>
-
-
-
 <hr>
 
 
