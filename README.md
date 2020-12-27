@@ -25,21 +25,20 @@
 <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="Talha Ülkümen">
 </a>
-<a href="https://www.linkedin.com/in/talha-%C3%BClk%C3%BCmen-4854391b8/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="Talha Ülkümen">
-</a>
 <a href="https://www.instagram.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="Talha Ülkümen">
+</a>
+<a href="https://www.linkedin.com/in/talha-%C3%BClk%C3%BCmen-4854391b8/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="Talha Ülkümen">
 </a>
 <a href="mailto:tlh.34.bd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="Talha Ülkümen">
 </a>
-<a href="https://medium.com/@tlh.34.bd" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="Talha Ülkümen">
-</a>
-
 <a href="https://www.facebook.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-facebook-informational" alt="Talha Ülkümen">
+</a>
+<a href="https://medium.com/@tlh.34.bd" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="Talha Ülkümen">
 </a>
 
 <hr>
