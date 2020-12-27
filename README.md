@@ -8,9 +8,9 @@
 - ❓   Ask me about anything that you want to learn
 - 💥 I like walking🏃‍ and traveling✈. I'm also learning to play the guitar.🎻
 <br>
-<!--[![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35)-->
+[![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&hide=scss&layout=compact&theme=tokyonight)
+
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>-->
 
@@ -21,8 +21,10 @@
   <img src="./all.gif" alt="react-native" width="20%" height="20%" align="right">
   <img src="./react.gif" alt="react-native" width="20%" height="20%" align="right">  
 </p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
-  
+
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />-->
+ 
+ ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&hide=scss&layout=compact&theme=tokyonight)
 <hr>
 
 
