@@ -22,6 +22,10 @@
 
 
 ### Connect with me:
+
+<a href="https://medium.com/@tlh.34.bd" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="Talha Ülkümen">
+</a>
 <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="Talha Ülkümen">
 </a>
@@ -36,9 +40,6 @@
 </a>
 <a href="https://www.facebook.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-facebook-informational" alt="Talha Ülkümen">
-</a>
-<a href="https://medium.com/@tlh.34.bd" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="Talha Ülkümen">
 </a>
 
 <hr>
