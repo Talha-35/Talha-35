@@ -10,7 +10,9 @@
 <br>
 <!--[![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35)-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&hide=scss&layout=compact&theme=tokyonight)
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>-->
 
 <hr>
 
@@ -44,6 +46,8 @@
 <a href="https://www.facebook.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-facebook-informational" alt="Talha Ülkümen">
 </a>
+
+
 
 <hr>
 
