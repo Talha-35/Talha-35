@@ -11,17 +11,37 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Talha-35&show_icons=true&theme=radical" />
- 
+  <img src="./all.gif" alt="react-native" width="20%" height="20%" align="right">
+  <img src="./react.gif" alt="react-native" width="20%" height="20%" align="right">
+  
 </p>
 
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-35&layout=compact&hide=html,css" alt="My Top Langs" />
 
+<hr>
+
+
 ### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/talha-%C3%BClk%C3%BCmen-4854391b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Talha Ülkümen" height="30" width="40" /></a>
-<a href="https://medium.com/@tlh.34.bd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Talha Ülkümen" height="30" width="40" /></a> <a href="mailto:tlh.34.bd@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> <a href="https://www.facebook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Talha Ülkümen" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Talha Ülkümen" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="Talha Ülkümen">
+</a>
+<a href="https://www.linkedin.com/in/talha-%C3%BClk%C3%BCmen-4854391b8/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="Talha Ülkümen">
+</a>
+<a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="Talha Ülkümen">
+</a>
+<a href="mailto:tlh.34.bd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="Talha Ülkümen">
+</a>
+<a href="https://medium.com/@tlh.34.bd" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="Talha Ülkümen">
+</a>
+
+<a href="https://www.facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-facebook-informational" alt="Talha Ülkümen">
+</a>
+
 <hr>
 
 ### My Tools :
