@@ -11,7 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>
 
-<!-- [![GitHub Follow Badge](https://github.com/Talha-35?tab=followers)](https://github.com/Talha-35) -->
+
+[![GitHub Follow Badge](https://img.shields.io/github/followers/Talha-35?label=follow&style=social)](https://github.com/Talha-35)
 
 
 <hr>
