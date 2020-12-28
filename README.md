@@ -9,10 +9,10 @@
 - 💥 I like walking🏃‍ and traveling✈. I'm also learning to play the guitar.🎻
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> </p>
-
-
-[![GitHub Follow Badge](https://img.shields.io/github/followers/Talha-35?label=follow&style=social)](https://github.com/Talha-35)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Talha-35" alt="Talha Ülkümen" /> 
+  [![GitHub Follow Badge](https://img.shields.io/github/followers/Talha-35?label=follow&style=social)](https://github.com/Talha-35)
+</p>
 
 
 <hr>
