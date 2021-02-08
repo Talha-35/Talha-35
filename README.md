@@ -71,7 +71,7 @@
 <!--✨--><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="./jira.jpg" alt="jira" width="30" height="30"/> </a> 
 <!--✨--><a href="https://firebase.google.com/" target="_blank"> <img src="./firebase.png" alt="firebase" width="30" height="30"/> </a> 
 <!--✨--><a href="https://code.visualstudio.com/" target="_blank"> <img src="./vscode.png" alt="visualstudio" width="30" height="30"/> </a> 
-<!--✨--><a href="https://slack.com/intl/en-no/" target="_blank"> <img src="./slackO.jpg" alt="slack" width="30" height="30"/> </a> 
+<!--✨--><a href="https://slack.com/intl/en-no/" target="_blank"> <img src="./slack0.jpg" alt="slack" width="30" height="30"/> </a> 
 <!--✨--><a href="https://getbootstrap.com" target="_blank"> <img src="./bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> 
 <!--✨--><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" height="40"/> </a> 
 <!--✨--><a href="https://git-scm.com/" target="_blank"> <img src="./git.png" alt="git" width="30" height="30"/> </a> 
