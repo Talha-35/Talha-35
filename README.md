@@ -58,27 +58,27 @@
 <!--✨--><a href="https://www.python.org/" target="_blank"> <img src="./python.png" alt="python" width="30" height="30"/></a> 
 <!--✨--><a href="https://www.w3schools.com/html/" target="_blank"> <img src="./html.png" alt="html5" width="30" height="30"/></a> 
 <!--✨--><a href="https://www.w3schools.com/css/" target="_blank"> <img src="./css3.png" alt="css3" width="30" height="30"/> </a> 
-<!--✨--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./js.png" alt="javascript" width="30" height="30"/> </a> 
-<!--✨--><a href="https://sass-lang.com" target="_blank"> <img src="./sass.png" alt="sass" width="30" height="30"/> </a> 
-<!--✨--><a href="https://www.djangoproject.com/" target="_blank"> <img src="./dj.png" alt="django" height="40"/> </a>
-<!--✨--><a href="https:github.com/Talha-35" target="_blank"> <img src="./sgithub.png" alt="github" width="30" height="30"/> </a> 
-<!--✨--><a href="https://reactjs.org/" target="_blank"> <img src="./reactt.png" alt="react" width="30" height="30"/> </a> 
-<!--✨--><a href="https://reactnative.dev/" target="_blank"> <img src="./reactn.png" alt="reactnative" height="40"/> </a> 
-<!--✨--><a href="https://nodejs.org" target="_blank"> <img src="./node.png" alt="nodejs" width="30" height="30"/> </a> 
-<!--✨--><a href="https://www.mongodb.com/" target="_blank"> <img src="./mongo.png" alt="mongodb" width="30" height="30"/> </a> 
-<!--✨--><a href="https://postman.com" target="_blank"> <img src="./postman.png" alt="postman" width="30" height="30"/> </a> 
-<!--✨--><a href="https://www.w3schools.com/js/js_es6.asp" target="_blank"><img src="./es6.jpg" width="30" height="30" alt = "es6" ></a> 
-<!--✨--><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="./jira.jpg" alt="jira" width="30" height="30"/> </a> 
-<!--✨--><a href="https://firebase.google.com/" target="_blank"> <img src="./firebase.png" alt="firebase" width="30" height="30"/> </a> 
-<!--✨--><a href="https://code.visualstudio.com/" target="_blank"> <img src="./vscode.png" alt="visualstudio" width="30" height="30"/> </a> 
-<!--✨--><a href="https://slack.com/intl/en-no/" target="_blank"> <img src="./slack0.jpg" alt="slack" width="30" height="30"/> </a> 
-<!--✨--><a href="https://getbootstrap.com" target="_blank"> <img src="./bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> 
-<!--✨--><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" height="40"/> </a> 
-<!--✨--><a href="https://git-scm.com/" target="_blank"> <img src="./git.png" alt="git" width="30" height="30"/> </a> 
-<!--✨--><a href="https://www.linux.org/" target="_blank"> <img src="./linux.png" alt="linux" width="30" height="30"/> </a>
-<!--✨--><a href="https://www.google.com/drive/" target="_blank"> <img src="./drive.png" alt="drive" width="30" height="30"/> </a>
-<!--✨--><a href="https://www.gmail.com/" target="_blank"> <img src="./gmail.jpg" alt="gmail" width="30" height="30"/> </a>
-<!--✨--><a href="https://www.stackoverflow.com" target="_blank"> <img src="./stackover.png" alt="stackover" width="30" height="30"/> </a>
+<!--✨--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./js.png" alt="javascript" width="30" height="30"  title="Javascript"/> </a> 
+<!--✨--><a href="https://sass-lang.com" target="_blank"> <img src="./sass.png" alt="sass" width="30" height="30" title="Sass"/> </a> 
+<!--✨--><a href="https://www.djangoproject.com/" target="_blank"> <img src="./dj.png" alt="django" height="40"  title="Django"/> </a>
+<!--✨--><a href="https:github.com/Talha-35" target="_blank"> <img src="./sgithub.png" alt="github" width="30" height="30"  title="Github"/> </a> 
+<!--✨--><a href="https://reactjs.org/" target="_blank">  <img src="./reactt.png" alt="react" width="30" height="30" title="React"/> </a> 
+<!--✨--><a href="https://reactnative.dev/" target="_blank"> <img src="./reactn.png" alt="reactnative" height="40"  title="React-Native"/> </a> 
+<!--✨--><a href="https://nodejs.org" target="_blank"> <img src="./node.png" alt="nodejs" width="30" height="30" title="NodeJs"/> </a> 
+<!--✨--><a href="https://www.mongodb.com/" target="_blank"> <img src="./mongo.png" alt="mongodb" width="30" height="30"  title="MongoDB"/> </a> 
+<!--✨--><a href="https://postman.com" target="_blank"> <img src="./postman.png" alt="postman" width="30" height="30"  title="Postman"/> </a> 
+<!--✨--><a href="https://www.w3schools.com/js/js_es6.asp" target="_blank"><img src="./es6.jpg" width="30" height="30" alt = "es6"  title="Es6"></a> 
+<!--✨--><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="./jira.jpg" alt="jira" width="30" height="30"  title="Jira"/> </a> 
+<!--✨--><a href="https://firebase.google.com/" target="_blank"> <img src="./firebase.png" alt="firebase" width="30" height="30"  title="Firebase"/> </a> 
+<!--✨--><a href="https://code.visualstudio.com/" target="_blank"> <img src="./vscode.png" alt="visualstudio" width="30" height="30"  title="VsCode"/> </a> 
+<!--✨--><a href="https://slack.com/intl/en-no/" target="_blank"> <img src="./slack0.jpg" alt="slack" width="30" height="30"  title="Slack"/> </a> 
+<!--✨--><a href="https://getbootstrap.com" target="_blank"> <img src="./bootstrap.png" alt="bootstrap" width="30" height="30"  title="Bootstrap"/> </a> 
+<!--✨--><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" height="40" /> </a> 
+<!--✨--><a href="https://git-scm.com/" target="_blank"> <img src="./git.png" alt="git" width="30" height="30"  title="Git"/> </a> 
+<!--✨--><a href="https://www.linux.org/" target="_blank"> <img src="./linux.png" alt="linux" width="30" height="30"  title="Linux"/> </a>
+<!--✨--><a href="https://www.google.com/drive/" target="_blank"> <img src="./drive.png" alt="drive" width="30" height="30"  title="Google Drive"/> </a>
+<!--✨--><a href="https://www.gmail.com/" target="_blank"> <img src="./gmail.jpg" alt="gmail" width="30" height="30"  title="Gmail"/> </a>
+<!--✨--><a href="https://www.stackoverflow.com" target="_blank"> <img src="./stackover.png" alt="stackover" width="30" height="30"  title="Stackoverflow"/> </a>
 <!--✨--><a href="#" target="_blank"> <img src="./font.jpg" alt="Font" width="30" height="30" title="font"/> </a>
 </p>
 <hr>
