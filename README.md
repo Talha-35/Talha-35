@@ -79,7 +79,7 @@
 <!--✨--><a href="https://www.google.com/drive/" target="_blank"> <img src="./drive.png" alt="drive" width="30" height="30"/> </a>
 <!--✨--><a href="https://www.gmail.com/" target="_blank"> <img src="./gmail.jpg" alt="gmail" width="30" height="30"/> </a>
 <!--✨--><a href="https://www.stackoverflow.com" target="_blank"> <img src="./stackover.png" alt="stackover" width="30" height="30"/> </a>
-<!--✨--><a href="#" target="_blank"> <img src="./font.jpg" alt="Font" width="30" height="30" title="font/> </a>
+<!--✨--><a href="#" target="_blank"> <img src="./font.jpg" alt="Font" width="30" height="30" title="font"/> </a>
 </p>
 <hr>
 <h2> Happy Coding! 😊</h2>
