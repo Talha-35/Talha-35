@@ -76,6 +76,10 @@
 <!--✨--><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" height="40"/> </a> 
 <!--✨--><a href="https://git-scm.com/" target="_blank"> <img src="./git.png" alt="git" width="30" height="30"/> </a> 
 <!--✨--><a href="https://www.linux.org/" target="_blank"> <img src="./linux.png" alt="linux" width="30" height="30"/> </a>
+<!--✨--><a href="https://www.google.com/drive/" target="_blank"> <img src="./drive.png" alt="drive" width="30" height="30"/> </a>
+<!--✨--><a href="https://www.gmail.com/" target="_blank"> <img src="./gmail.jpg" alt="gmail" width="30" height="30"/> </a>
+<!--✨--><a href="https://www.stackoverflow.com" target="_blank"> <img src="./stackover.png" alt="stackover" width="30" height="30"/> </a>
+<!--✨--><a href="#" target="_blank"> <img src="./font.jpg" alt="Font" width="30" height="30" title="font/> </a>
 </p>
 <hr>
 <h2> Happy Coding! 😊</h2>
