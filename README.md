@@ -55,7 +55,7 @@
 
 ### My Tools :
 <p>
-<!--✨--><a href="https://www.python.org/" target="_blank"> <img src="./python.png" alt="python" width="30" height="30"/></a> 
+<!--✨--><a href="https://www.python.org/" target="_blank"> <img src="./python.png" alt="python" width="40" height="40"/></a> 
 <!--✨--><a href="https://www.w3schools.com/html/" target="_blank"> <img src="./html.png" alt="html5" width="30" height="30"/></a> 
 <!--✨--><a href="https://www.w3schools.com/css/" target="_blank"> <img src="./css3.png" alt="css3" width="30" height="30"/> </a> 
 <!--✨--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./js.png" alt="javascript" width="30" height="30"  title="Javascript"/> </a> 
